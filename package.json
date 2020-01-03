@@ -1,0 +1,24 @@
+{
+  "name": "Physics_SubmergedWeight",
+  "version": "1.0.0",
+  "description": "Exploration project for Fomantic-UI with CSS. This webpage can compute the apparent weight of an object submerged in fluid.",
+  "main": "index.js",
+  "scripts": {
+    "server": "live-server --open=./src --watch=./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdaquila/Physics_SubmergedWeight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdaquila/Physics_SubmergedWeight/issues"
+  },
+  "homepage": "https://github.com/kdaquila/Physics_SubmergedWeight#readme",
+  "dependencies": {
+    "fomantic-ui": "^2.8.3",
+    "live-server": "^1.2.1"
+  }
+}
